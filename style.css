@@ -80,3 +80,7 @@ h1 {
 .cartao-verso {
   transform: rotateY(180deg);
 }
+
+section{
+  display: flex;
+}
