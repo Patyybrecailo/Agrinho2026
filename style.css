@@ -83,4 +83,5 @@ h1 {
 
 section{
   display: flex;
+  gap: 16px;
 }
